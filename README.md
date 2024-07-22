@@ -15,4 +15,20 @@ If you encounter any issues or need assistance, contact me via discord with the 
 Get ready to optimize your Minecraft journey like never before with Fastly Optimized — prepare to be amazed!
 
 # Installation
-soon
+There are 2 versions of Fastly Optimized. One is for pcs, and the other is for Pojav Launcher.
+## Pojav Launcher
+You have to download 3 files. One is the version of Fastly Optimized, the second one is the Vulkan patcher and 3rd is the java 17 file.
+
+But first you have to install MT Manager, link down below!
+
+Open Pojav Launcher, login into your account, go into the settings, click java tweaks and then click runtime manager and click the jre 17 file. Then install a fabric version of Minecraft 1.20.1 . After installing it, open it, make it load and then close it.
+
+After downloading MT Manager, open it and click the 3 lines up the right corner
+![1000011523](https://github.com/user-attachments/assets/a990ee14-0d19-486a-95c1-51b6d072c345)
+
+After clicking the 3 lines, click extract apk and find Pojav Launcher.
+After you found it, click Data Directory 2 and click the path.
+![1000011525](https://github.com/user-attachments/assets/ab605507-f926-4041-92b5-9b680706d719)
+
+After, you will be prompted to the data folder of Pojav. Click files, then .minecraft . In the other side, go to the Vulkan Patcher folder, select the 3 files, long press on them and then, click copy. Click yes and then tick the last option after, click ok.
+Boom! You have just installed Fastly Optimized for Pojav Launcher! I will release a newer version for it for 1.21.
