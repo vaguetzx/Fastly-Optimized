@@ -2,6 +2,7 @@
 
 # heya!
 a lil thing that i forgot typing is that i dont know when it will be released cuz im lazy asf
+also this is discontinued and rebranded, rebrand soon :3
 
 # Introducing Fastly Optimized!
 The Ultimate Minecraft Optimization Modpack! Experience buttery smooth gameplay, lightning-fast loading times, and a performance boost that'll leave your game feeling like heaven! This modpack not only enhances performance but also includes shader support, zoom functionality, and connected textures! Upgrade from being a potato to a gaming powerhouse with Fastly Optimized and unleash the full potential of your Minecraft adventure.
